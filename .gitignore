@@ -179,3 +179,15 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# فایل‌های گزارش و مستندات شخصی
+*.doc
+*.docx
+*.pdf
+
+# فایل‌های پشتیبان Word
+~$*.docx
+
+# Temporary project files
+.virtual_documents/
