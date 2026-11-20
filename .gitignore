@@ -181,13 +181,14 @@ cython_debug/
 .cursorindexingignore
 
 
-# فایل‌های گزارش و مستندات شخصی
+# Private documents
 *.doc
 *.docx
 *.pdf
 
-# فایل‌های پشتیبان Word
+# Temporary Word files
 ~$*.docx
+~$*.doc
 
-# Temporary project files
+# Temporary files
 .virtual_documents/
