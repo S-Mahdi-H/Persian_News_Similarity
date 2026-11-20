@@ -1,0 +1,6 @@
+
+beautifulsoup4
+lxml
+playwright==1.65.1
+scikit-learn
+stanza==1.15.0
